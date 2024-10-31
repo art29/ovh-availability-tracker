@@ -1,0 +1,6 @@
+.env
+server_status.json
+
+# IDEs
+.idea
+.vscode
